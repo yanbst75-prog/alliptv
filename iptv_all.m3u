@@ -94,17 +94,6 @@ https://bloomberg.com/media-manifest/streams/asia.m3u8
 https://bloomberg.com/media-manifest/streams/asia-event.m3u8
 
 
-############## 新加坡 Singapore ##############
-#EXTINF:-1 tvg-id="Channel5.sg@SD" group-title="新加坡",Channel 5
-https://app.viloud.tv/hls/channel/dcbf7a54c89ba12d98cc7c401c37f565.m3u8
-
-#EXTINF:-1 tvg-id="Channel8.sg@SD" group-title="新加坡",Channel 8
-https://app.viloud.tv/hls/channel/57148804a268f59e0c1af0c1b67a2f7e.m3u8
-
-#EXTINF:-1 tvg-id="ChannelU.sg@SD" group-title="新加坡",Channel U
-https://app.viloud.tv/hls/channel/aaf404bee904cff424bb5d1f6fdf9333.m3u8
-
-
 ############## 法国 France ##############
 #EXTINF:-1 tvg-id="BFMTV.fr" tvg-name="BFM TV" group-title="法国",BFM TV (新闻)
 https://live-cdn-stream-euw1.bfmtv.bct.nextradiotv.com/master.m3u8
@@ -129,6 +118,7 @@ https://acb6ca89.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/UmxheH
 ############## 德国 Germany ##############
 #EXTINF:-1 tvg-id="EuronewsGerman.de" tvg-name="Euronews German" group-title="德国",Euronews German (新闻)
 https://575b7833.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/UmxheHhUVi1ldV9FdXJvbmV3c0RldXRzY2hfSExT/playlist.m3u8
+
 
 
 
