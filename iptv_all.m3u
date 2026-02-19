@@ -87,11 +87,22 @@ http://192.168.50.1:4022/udp/239.253.43.14:5146
 ##################################################
 
 ############## 香港 Hong Kong ##############
-#EXTINF:-1 tvg-id="BloombergTV.asia" group-title="国际财经",Bloomberg TV Asia (720p)
+#EXTINF:-1 tvg-id="BloombergTV.asia" group-title="香港",Bloomberg TV Asia (720p)
 https://bloomberg.com/media-manifest/streams/asia.m3u8
 
-#EXTINF:-1 tvg-id="BloombergTV.asia.event" group-title="国际财经",Bloomberg TV Asia Live Event (720p)
+#EXTINF:-1 tvg-id="BloombergTV.asia.event" group-title="香港",Bloomberg TV Asia Live Event (720p)
 https://bloomberg.com/media-manifest/streams/asia-event.m3u8
+
+
+############## 新加坡 Singapore ##############
+#EXTINF:-1 tvg-id="CNAInternational.sg@SD" group-title="新加坡",CNA International (1080p)
+https://mediacorp-videosbclive.akamaized.net/dd724cfb0e8e4cdc921bbc4ac94614bf/ap-southeast-1/6057994443001/playlist.m3u8
+
+#EXTINF:-1 tvg-id="CNAOriginals.sg@SD" group-title="新加坡",CNA Originals (1080p)
+https://amg01082-cna-amg01082c1-rlaxx-us-11304.playouts.now.amagi.tv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="CNBCAsia.sg@SD" group-title="新加坡",CNBC Asia (720p)
+https://liveh34.vtvprime.vn/hls/CNBC/03.m3u8
 
 
 ############## 法国 France ##############
@@ -118,6 +129,7 @@ https://acb6ca89.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/UmxheH
 ############## 德国 Germany ##############
 #EXTINF:-1 tvg-id="EuronewsGerman.de" tvg-name="Euronews German" group-title="德国",Euronews German (新闻)
 https://575b7833.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/UmxheHhUVi1ldV9FdXJvbmV3c0RldXRzY2hfSExT/playlist.m3u8
+
 
 
 
