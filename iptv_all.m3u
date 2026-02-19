@@ -81,19 +81,14 @@ http://php.17186.eu.org/phtv/fhzx.m3u8
 ############## 美国 USA ##############
 #EXTINF:-1 group-title="美国",ABC 7 Bay Area News (加州旧金山) (新闻)
 https://content.uplynk.com/channel/ext/4413701bf5a1488db55b767f8ae9d4fa/kgo_24x7_news.m3u8
-
 #EXTINF:-1 group-title="美国",ABC 7 Los Angeles News (加州洛杉矶) (新闻)
 https://content.uplynk.com/channel/ext/2118d9222a87420ab69223af9cfa0a0f/kabc_24x7_news.m3u8
-
 #EXTINF:-1 group-title="美国",NBC Chicago News (新闻)
 https://nbcu-nbcchicagonews-firetv.amagi.tv/playlist.m3u8
-
 #EXTINF:-1 group-title="美国",ABC News Live (新闻)
 https://content.uplynk.com/channel/3324f2467c414329b3b0cc5cd987b6be.m3u8
-
 #EXTINF:-1 group-title="美国",TMZ (Entertainment News) (娱乐新闻)
 https://dai.google.com/linear/hls/event/YOUR_TMDB_STREAM/master.m3u8
-
 #EXTINF:-1 group-title="美国",BBC Two HD (娱乐)
 https://viamotionhsi.netplus.ch/live/eds/bbc2/browser-HLS8/bbc2.m3u8
 
@@ -101,7 +96,6 @@ https://viamotionhsi.netplus.ch/live/eds/bbc2/browser-HLS8/bbc2.m3u8
 ############## 新加坡 Singapore ##############
 #EXTINF:-1 tvg-id="CNAOriginals.sg@SD" group-title="新加坡",CNA Originals (1080p)
 https://amg01082-cna-amg01082c1-rlaxx-us-11304.playouts.now.amagi.tv/playlist.m3u8
-
 #EXTINF:-1 tvg-id="CNBCAsia.sg@SD" group-title="新加坡",CNBC Asia (720p)
 https://liveh34.vtvprime.vn/hls/CNBC/03.m3u8
 
@@ -109,10 +103,8 @@ https://liveh34.vtvprime.vn/hls/CNBC/03.m3u8
 ############## 法国 France ##############
 #EXTINF:-1 group-title="法国",France 24 English (新闻 1080p)
 https://live.france24.com/hls/live/2037218/F24_EN_HI_HLS/master_5000.m3u8
-
 #EXTINF:-1 group-title="法国",FashionTV Paris L'Original (商业/时尚旅游 1080p)
 https://edge-fast3.evrideo.tv/bfdbb576-83f7-11f0-9f89-0200170e3e04_1000028043_HLS/manifest.m3u8
-
 #EXTINF:-1 group-title="法国",MyZen TV (旅游生活方式 1080p)
 https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01255-secomcofites-my-myzen-en-plex/playlist.m3u8
 
@@ -120,7 +112,6 @@ https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01255-secomcofites-my-myzen-en-plex
 ############## 西班牙 Spain ##############
 #EXTINF:-1 group-title="西班牙",Bloomberg TV Asia (商业新闻 英文 720p)
 https://bloomberg.com/media-manifest/streams/asia.m3u8
-
 #EXTINF:-1 group-title="西班牙",Euronews English (国际新闻 英文 1080p)
 https://rakuten-euronews-3-es.samsung.wurl.tv/playlist.m3u8
 
@@ -128,7 +119,6 @@ https://rakuten-euronews-3-es.samsung.wurl.tv/playlist.m3u8
 ############## 意大利 Italy ##############
 #EXTINF:-1 group-title="意大利",Class CNBC (财经新闻)
 https://raw.githubusercontent.com/Sibprod/streams/main/ressources/dm/py/hls/classcnbc.m3u8
-
 #EXTINF:-1 group-title="意大利",Horse TV (户外/旅游/马术 720p)
 https://a-cdn.klowdtv.com/live2/horsetv_720p/playlist.m3u8
 
@@ -136,7 +126,6 @@ https://a-cdn.klowdtv.com/live2/horsetv_720p/playlist.m3u8
 ############## 德国 Germany ##############
 #EXTINF:-1 group-title="德国",DW English (新闻 1080p)
 https://dwamdstream102.akamaized.net/hls/live/2015525/dwstream102/master.m3u8
-
 #EXTINF:-1 group-title="德国",Adventure Earth (纪录片/商业旅游类 1080p)
 https://a57e9c69976649b582a8d7604c00e69a.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/RlaxxTV-eu_AdventureEarth/playlist.m3u8
 
@@ -144,16 +133,12 @@ https://a57e9c69976649b582a8d7604c00e69a.mediatailor.us-east-1.amazonaws.com/v1/
 ############## 瑞士 Switzerland ##############
 #EXTINF:-1 group-title="瑞士",SRF info HD (新闻 1080p)
 https://viamotionhsi.netplus.ch/live/eds/srfinfo/browser-HLS8/srfinfo.m3u8
-
 #EXTINF:-1 group-title="瑞士",Carac 1 / Rouge TV (1080p)
 https://viamotionhsi.netplus.ch/live/eds/rougetv/browser-HLS8/rougetv.m3u8
-
 #EXTINF:-1 group-title="瑞士",Carac 2 / One TV (1080p)
 https://viamotionhsi.netplus.ch/live/eds/onetv/browser-HLS8/onetv.m3u8
-
 #EXTINF:-1 group-title="瑞士",Carac 3 / LFM TV (1080p)
 https://lfmhd.vedge.infomaniak.com/livecast/lfmhd/playlist.m3u8
-
 #EXTINF:-1 group-title="瑞士",Swiss Alps Live Cam (旅游风景 1080p)
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01324-swissalpslive-swissalpslive/playlist.m3u8
 
@@ -166,7 +151,6 @@ https://diadoratv.stream/live/diadora/playlist.m3u8
 ############## 新西兰 New Zealand ##############
 #EXTINF:-1 group-title="新西兰",Love Stories TV (新西兰 英语 生活/爱情/旅游氛围 720p)
 https://84e619480232400a842ce499d053458a.mediatailor.us-east-1.amazonaws.com/v1/manifest/04fd913bb278d8775298c26fdca9d9841f37601f/ONO_LoveStoriesTV/18a65393-ba3b-4912-90d5-7188c128ac66/3.m3u8
-
 #EXTINF:-1 group-title="新西兰",Bravo +1 (新西兰 英语 娱乐/生活方式 1080p)
 https://i.mjh.nz/.r/bravo-plus1.m3u8
 
@@ -174,6 +158,15 @@ https://i.mjh.nz/.r/bravo-plus1.m3u8
 ############## 澳洲 Australia ##############
 #EXTINF:-1 group-title="澳洲",Bloomberg TV Australia (澳洲 英语 新闻/财经 270p)
 https://bloomberg.com/media-manifest/streams/aus.m3u8
-
 #EXTINF:-1 group-title="澳洲",Travel & Food TV (澳洲 英语 生活/旅游/美食 720p)
 https://nrpus.bozztv.com/36bay2/gusa-moviemagictv/index.m3u8
+
+############## 俄罗斯 Russia ##############
+#EXTINF:-1 group-title="俄罗斯",360° TV (俄罗斯 俄语 新闻资讯/社会生活频道 1080p)
+https://cdn-evacoder-tv.facecast.io/evacoder_hls_hi/CkxfR1xNUAJwTgtXTBZTAJli/index.m3u8
+
+############## 立陶宛 Lithuania ##############
+#EXTINF:-1 group-title="立陶宛",Delfi TV (立陶宛 新闻/社会/生活资讯 )
+https://s1.dcdn.lt/live/televizija/playlist.m3u8
+
+
