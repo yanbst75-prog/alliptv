@@ -88,8 +88,7 @@ https://live.france24.com/hls/live/2037218/F24_EN_HI_HLS/master_5000.m3u8
 https://dash4.antik.sk/live/test_euronews/playlist.m3u8
 #EXTINF:-1 group-title="法国",France 2 (法语 综合频道 1080p)
 http://69.64.57.208/france2/mono.m3u8
-#EXTINF:-1 group-title="法国",arte HD (法德 文化纪录 1080p)
-https://viamotionhsi.netplus.ch/live/eds/artehd/browser-HLS8/artehd.m3u8
+
 
 
 ############## 德国 Germany ##############
@@ -97,22 +96,7 @@ https://viamotionhsi.netplus.ch/live/eds/artehd/browser-HLS8/artehd.m3u8
 https://dwamdstream102.akamaized.net/hls/live/2015525/dwstream102/master.m3u8
 #EXTINF:-1 group-title="德国",Adventure Earth (纪录片/商业旅游类 1080p)
 https://a57e9c69976649b582a8d7604c00e69a.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/RlaxxTV-eu_AdventureEarth/playlist.m3u8
-#EXTINF:-1 group-title="德国",ZDF HD (德语 综合频道 720p)
-https://viamotionhsi.netplus.ch/live/eds/zdfhd/browser-HLS8/zdfhd.m3u8
 
-
-############## 瑞士 Switzerland ##############
-#EXTINF:-1 group-title="瑞士",RSI La 1 (意大利语 综合频道 720p)
-https://viamotionhsi.netplus.ch/live/eds/rsila1hd/browser-HLS8/rsila1hd.m3u8
-#EXTINF:-1 group-title="瑞士",RSI La 2 (意大利语 体育娱乐 720p)
-https://viamotionhsi.netplus.ch/live/eds/rsila2hd/browser-HLS8/rsila2hd.m3u8
-#EXTINF:-1 group-title="瑞士",SRF 1 (德语 综合频道 1080p)
-https://viamotionhsi.netplus.ch/live/eds/srf1hd/browser-HLS8/srf1hd.m3u8
-
-
-############## 克罗地亚 Croatia ##############
-#EXTINF:-1 group-title="克罗地亚",Diadora TV (生活/旅游氛围)
-https://diadoratv.stream/live/diadora/playlist.m3u8
 
 
 ############## 俄罗斯 Russia ##############
@@ -133,6 +117,7 @@ https://lowa8026-cmyk.github.io/tvpvod/399731.m3u8
 ############## 卡塔尔 Qatar ##############
 #EXTINF:-1 group-title="卡塔尔",Al Jazeera English (英语 国际新闻 1080p)
 https://live-hls-web-aje-fa.thehlive.com/AJE/index.m3u8
+
 
 
 
