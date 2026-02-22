@@ -84,11 +84,12 @@ https://liveh34.vtvprime.vn/hls/CNBC/03.m3u8
 ############## 法国 France ##############
 #EXTINF:-1 group-title="法国",France 24 English (新闻 1080p)
 https://live.france24.com/hls/live/2037218/F24_EN_HI_HLS/master_5000.m3u8
-
-
-############## 意大利 Italy ##############
-#EXTINF:-1 group-title="意大利",Horse TV (户外/旅游/马术 720p)
-https://a-cdn.klowdtv.com/live2/horsetv_720p/playlist.m3u8
+#EXTINF:-1 group-title="法国",Euronews English HD (英语 国际新闻 1080p)
+https://dash4.antik.sk/live/test_euronews/playlist.m3u8
+#EXTINF:-1 group-title="法国",France 2 (法语 综合频道 1080p)
+http://69.64.57.208/france2/mono.m3u8
+#EXTINF:-1 group-title="法国",arte HD (法德 文化纪录 1080p)
+https://viamotionhsi.netplus.ch/live/eds/artehd/browser-HLS8/artehd.m3u8
 
 
 ############## 德国 Germany ##############
@@ -96,11 +97,17 @@ https://a-cdn.klowdtv.com/live2/horsetv_720p/playlist.m3u8
 https://dwamdstream102.akamaized.net/hls/live/2015525/dwstream102/master.m3u8
 #EXTINF:-1 group-title="德国",Adventure Earth (纪录片/商业旅游类 1080p)
 https://a57e9c69976649b582a8d7604c00e69a.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/RlaxxTV-eu_AdventureEarth/playlist.m3u8
+#EXTINF:-1 group-title="德国",ZDF HD (德语 综合频道 720p)
+https://viamotionhsi.netplus.ch/live/eds/zdfhd/browser-HLS8/zdfhd.m3u8
 
 
 ############## 瑞士 Switzerland ##############
-#EXTINF:-1 group-title="瑞士",Carac 3 / LFM TV (1080p)
-https://lfmhd.vedge.infomaniak.com/livecast/lfmhd/playlist.m3u8
+#EXTINF:-1 group-title="瑞士",RSI La 1 (意大利语 综合频道 720p)
+https://viamotionhsi.netplus.ch/live/eds/rsila1hd/browser-HLS8/rsila1hd.m3u8
+#EXTINF:-1 group-title="瑞士",RSI La 2 (意大利语 体育娱乐 720p)
+https://viamotionhsi.netplus.ch/live/eds/rsila2hd/browser-HLS8/rsila2hd.m3u8
+#EXTINF:-1 group-title="瑞士",SRF 1 (德语 综合频道 1080p)
+https://viamotionhsi.netplus.ch/live/eds/srf1hd/browser-HLS8/srf1hd.m3u8
 
 
 ############## 克罗地亚 Croatia ##############
@@ -108,18 +115,26 @@ https://lfmhd.vedge.infomaniak.com/livecast/lfmhd/playlist.m3u8
 https://diadoratv.stream/live/diadora/playlist.m3u8
 
 
-############## 澳洲 Australia ##############
-#EXTINF:-1 group-title="澳洲",Bloomberg TV Australia (澳洲 英语 新闻/财经 270p)
-https://bloomberg.com/media-manifest/streams/aus.m3u8
-
-
 ############## 俄罗斯 Russia ##############
 #EXTINF:-1 group-title="俄罗斯",360° TV (俄罗斯 俄语 新闻资讯/社会生活频道 1080p)
 https://cdn-evacoder-tv.facecast.io/evacoder_hls_hi/CkxfR1xNUAJwTgtXTBZTAJli/index.m3u8
 
+
 ############## 立陶宛 Lithuania ##############
 #EXTINF:-1 group-title="立陶宛",Delfi TV (立陶宛 新闻/社会/生活资讯 )
 https://s1.dcdn.lt/live/televizija/playlist.m3u8
+
+
+############## 波兰 Poland ##############
+#EXTINF:-1 group-title="波兰",TVP World (英语 国际新闻 1080p)
+https://lowa8026-cmyk.github.io/tvpvod/399731.m3u8
+
+
+############## 卡塔尔 Qatar ##############
+#EXTINF:-1 group-title="卡塔尔",Al Jazeera English (英语 国际新闻 1080p)
+https://live-hls-web-aje-fa.thehlive.com/AJE/index.m3u8
+
+
 
 
 
